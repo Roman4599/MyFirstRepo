@@ -1,0 +1,10 @@
+              My Personal and Acadamic Goals for Next Year
+As a second year Computer Science student and aspiring full stack web developer
+my primary goal for next year is to deepen my technical sklls in both frontend 
+and backend development.Accademically ,i aim to excel in my coursework, particulary
+in algorithms,data structure and systems programming. on a personal level , i plan to complete
+the alx software engineering program,build several real world projects and contribute an open 
+source communities.I also want to improve my problem-solving abilities by practicing regularly on platforms 
+like LeetCode and HackerRank. By the end of the year, I hope to be internship-ready and confident 
+in my ability to build complete web applications from scratch.
+
