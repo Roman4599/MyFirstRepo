@@ -1,0 +1,4 @@
+                                                 Brief Introduction About Myself    
+My Name is Roman. i am second year computer science student.i'm passionate about frontend development and love building interactive and user friendly web interface.
+i am currently learning backend development as apart of the ALx software Engineering program aiming to become a skilled fullstack web developer.   
+   
